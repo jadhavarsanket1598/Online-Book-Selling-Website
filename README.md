@@ -1,3 +1,4 @@
-# Opering-Systems-Programming-
-Sample Codes of Shell programmings.
-Here you can find some shell programming codes which are actually covers some basic knowladge.
+# Online BookSelling Website.
+This is a simple website which will cover basice concepts of web site desinging .
+Dabasase connectivity is shown.
+
